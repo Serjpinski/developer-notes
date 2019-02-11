@@ -1,4 +1,4 @@
-Pros and cons of technology and tool homogeneity/heterogeneity in a medium sized IT team.
+# Pros and cons of technology and tool homogeneity/heterogeneity in a medium sized IT team
 
 Advantages of homogeneity:
 * Reduces maintenance and operational costs. By using similar tools and libraries in all projects, any developer can quickly contribute or fix any project, and all projects can share the same operation/deployment infrastructure.
